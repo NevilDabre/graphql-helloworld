@@ -1,0 +1,16 @@
+{
+  "name": "graphqlhelloworld",
+  "version": "1.0.0",
+  "description": "hello world using graphql",
+  "main": "server.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neville",
+  "license": "ISC",
+  "dependencies": {
+    "@neville.dabreo/greetingbot": "^2.0.5",
+    "graphql-yoga": "^1.18.1"
+  }
+}
